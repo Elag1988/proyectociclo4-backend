@@ -16,7 +16,7 @@ import { AuthModule } from './auth/auth.module';
       host: 'b5s2izs98b61xg31i744-mysql.services.clever-cloud.com',
       port: 3306,
       username: 'u3bbivuc1n9lkmeh',
-      password: 'u3bbivuc1n9lkmeh',
+      password: 'aPjo0RaJnaN8qO4cdwQd',
       database: 'b5s2izs98b61xg31i744',
       autoLoadEntities: true,
     }),
